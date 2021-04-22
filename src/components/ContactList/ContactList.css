@@ -1,0 +1,11 @@
+/* .contact-card {
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    grid-gap: 40px;
+} */
+
+.contact-roll {
+    display: grid;
+    grid-template-columns: 1fr 10fr 1fr;
+    grid-gap: 40px;
+}
